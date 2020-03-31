@@ -2,6 +2,8 @@
 
 _Session material and solutions for the Beginner's Python course at the AstraZeneca Code Club_
 
+Spotted a mistake, dead link, or have suggestions for improvements? Report these [here](https://github.com/THargreaves/beginners-python/issues/new)
+
 Navigation:
 
 * [Introduction](#introduction)

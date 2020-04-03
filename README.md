@@ -54,6 +54,7 @@ We are still working on transferring the course to this repo, improving and stan
 ### Homework
 
 * Session One [Exercises](https://github.com/THargreaves/beginners-python/blob/master/session_one/session_one_exercises.ipynb) and [Solutions](https://github.com/THargreaves/beginners-python/blob/master/session_one/session_one_solutions.ipynb)
+* Session Two [Exercises](https://github.com/THargreaves/beginners-python/blob/master/session_two/session_two_exercises.ipynb) and [Solutions](https://github.com/THargreaves/beginners-python/blob/master/session_two/session_two_solutions.ipynb)
 
 ## Session Summaries
 

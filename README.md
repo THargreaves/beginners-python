@@ -75,7 +75,7 @@ We are still working on transferring the course to this repo, improving and stan
 ### Session 3
 
 * Add logic to your code using `if`, `elif`, and `else`
-* Learn how to compare two difference numbers with comparison operators
+* Learn how to compare two different numbers with comparison operators
 * Use `while` loops to repeatedly run blocks of code
 
 ### Session 4

@@ -97,6 +97,7 @@ We are still working on transferring the course to this repo, improving and stan
 * Learn how to use `for` loops to run code a predetermined number of times
 * Loop through lists and ranges of numbers
 * Escape loops using `break` and `continue`
+* Learn how to enumerate loops
 
 ### What now?
 

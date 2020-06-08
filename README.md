@@ -103,6 +103,27 @@ We are still working on transferring the course to this repo, improving and stan
 * Escape loops using `break` and `continue`
 * Learn how to enumerate loops
 
+### Session 6
+
+* Create functions to modularise your code
+* Add function parameters
+* Apply recursive strategies to solve common problems
+* Understand the nature of variable scope
+
+### Session 7
+
+* Learn the limitations of lists/tuples
+* Use dictionaries to overcome these
+* Manipulate dictionaries, as with lists
+* Loop through dictionaries in multiple ways
+
+### Session 8
+
+* Read from a text file
+* Write text to a file
+* Learn how to raise errors
+* Use common built-in packages in your code
+
 ### What now?
 
 Checkout my other courses (written by me, in parallel with the AZ Code Club):
@@ -129,7 +150,7 @@ On top of any support the AZ Code Club can offer, there are many open-source res
 
 ## Acknowledgements
 
-The core contributers to this course are (in alphabetical order):
+The original contributers to this course are (in alphabetical order):
 
 * David McKinney
 * Mark Porter
@@ -137,5 +158,5 @@ The core contributers to this course are (in alphabetical order):
 * Sam Bradley
 * Tim Hargreaves
 
-This repository is managed by Tim Hargreaves.
+The current version of the course is a vast redesign of the original material, with the addition of homework, solution notebooks, and content for three additional weeks. This adaptation was made solely by [Tim Hargreaves]((https://www.linkedin.com/in/tim-hargreaves/)), who also manages this repository.
 

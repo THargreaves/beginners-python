@@ -48,6 +48,7 @@ We are still working on transferring the course to this repo, improving and stan
 * Session Three [Presentation](https://github.com/THargreaves/beginners-python/blob/master/session_three/session_three_presentation.pptx?raw=true)
 * Session Four [Presentation](https://github.com/THargreaves/beginners-python/blob/master/session_four/session_four_presentation.pptx?raw=true)
 * Session Five [Presentation](https://github.com/THargreaves/beginners-python/blob/master/session_five/session_five_presentation.pptx?raw=true)
+* Session Six [Presentation](https://github.com/THargreaves/beginners-python/blob/master/session_six/session_six_presentation.pptx?raw=true)
 
 ### Templates
 

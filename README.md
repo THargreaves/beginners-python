@@ -97,7 +97,7 @@ We are still working on transferring the course to this repo, improving and stan
 ### Session 4
 
 * Recap the use of lists in Python and use them to store more than just numbers
-* Learn how to access invidual items of lists as well as extract sub-lists
+* Learn how to access individual items of lists as well as extract sub-lists
 * Manipulate lists, adding, removing, and altering elements
 * Understand the difference and similarities between tuples and lists
 

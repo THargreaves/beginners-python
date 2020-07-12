@@ -61,6 +61,7 @@ We are still working on transferring the course to this repo, improving and stan
 * Session Five [Blank Template](https://github.com/THargreaves/beginners-python/blob/master/session_five/session_five_blank_template.ipynb) and [Filled Template](https://github.com/THargreaves/beginners-python/blob/master/session_five/session_five_filled_template.ipynb)
 * Session Six [Blank Template](https://github.com/THargreaves/beginners-python/blob/master/session_six/session_six_blank_template.ipynb) and [Filled Template](https://github.com/THargreaves/beginners-python/blob/master/session_six/session_six_filled_template.ipynb)
 * Session Seven [Blank Template](https://github.com/THargreaves/beginners-python/blob/master/session_seven/session_seven_blank_template.ipynb) and [Filled Template](https://github.com/THargreaves/beginners-python/blob/master/session_seven/session_seven_filled_template.ipynb)
+* Session Eight [Blank Template](https://github.com/THargreaves/beginners-python/blob/master/session_eight/session_eight_blank_template.ipynb) and [Filled Template](https://github.com/THargreaves/beginners-python/blob/master/session_eight/session_eight_filled_template.ipynb)
 
 ### Homework
 

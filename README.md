@@ -72,6 +72,7 @@ We are still working on transferring the course to this repo, improving and stan
 * Session Five [Exercises](https://github.com/THargreaves/beginners-python/blob/master/session_five/session_five_exercises.ipynb) and [Solutions](https://github.com/THargreaves/beginners-python/blob/master/session_five/session_five_solutions.ipynb)
 * Session Six [Exercises](https://github.com/THargreaves/beginners-python/blob/master/session_six/session_six_exercises.ipynb) and [Solutions](https://github.com/THargreaves/beginners-python/blob/master/session_six/session_six_solutions.ipynb)
 * Session Seven [Exercises](https://github.com/THargreaves/beginners-python/blob/master/session_seven/session_seven_exercises.ipynb) and [Solutions](https://github.com/THargreaves/beginners-python/blob/master/session_seven/session_seven_solutions.ipynb)
+* Session Eight [Exercises](https://github.com/THargreaves/beginners-python/blob/master/session_eight/session_eight_exercises.ipynb) and [Solutions](https://github.com/THargreaves/beginners-python/blob/master/session_eight/session_eight_solutions.ipynb)
 
 ## Session Summaries
 

@@ -147,16 +147,3 @@ On top of any support the AZ Code Club can offer, there are many open-source res
 * [Practice Python](https://www.practicepython.org/)
 * [Real Python](https://realpython.com/start-here/)
 * [GeeksforGeeks](https://www.geeksforgeeks.org/python-programming-language/)
-
-## Acknowledgements
-
-The original contributers to this course are (in alphabetical order):
-
-* David McKinney
-* Mark Porter
-* Ryan Whittaker
-* Sam Bradley
-* Tim Hargreaves
-
-The current version of the course is a vast redesign of the original material, with the addition of homework, solution notebooks, and content for three additional weeks. This adaptation was made solely by [Tim Hargreaves]((https://www.linkedin.com/in/tim-hargreaves/)), who also manages this repository.
-

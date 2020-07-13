@@ -1,5 +1,7 @@
 # Beginner's Python
 
+[![Powered by DigitalOcean](DO_badge.png)](https://www.digitalocean.com/)
+
 _Session material and solutions for the Beginner's Python course taught by WDSS_
 
 Spotted a mistake, dead link, or have suggestions for improvements? Report these [here](https://github.com/warwickdatascience/beginners-python/issues/new)

@@ -2,7 +2,7 @@
 
 _Session material and solutions for the Beginner's Python course at the AstraZeneca Code Club_
 
-Spotted a mistake, dead link, or have suggestions for improvements? Report these [here](https://github.com/THargreaves/beginners-python/issues/new)
+Spotted a mistake, dead link, or have suggestions for improvements? Report these [here](https://github.com/warwickdatascience/beginners-python/issues/new)
 
 Navigation:
 
@@ -43,36 +43,36 @@ We are still working on transferring the course to this repo, improving and stan
 
 ### Presentations
 
-* Session One [Presentation](https://github.com/THargreaves/beginners-python/blob/master/session_one/session_one_presentation.pptx?raw=true)
-* Session Two [Presentation](https://github.com/THargreaves/beginners-python/blob/master/session_two/session_two_presentation.pptx?raw=true)
-* Session Three [Presentation](https://github.com/THargreaves/beginners-python/blob/master/session_three/session_three_presentation.pptx?raw=true)
-* Session Four [Presentation](https://github.com/THargreaves/beginners-python/blob/master/session_four/session_four_presentation.pptx?raw=true)
-* Session Five [Presentation](https://github.com/THargreaves/beginners-python/blob/master/session_five/session_five_presentation.pptx?raw=true)
-* Session Six [Presentation](https://github.com/THargreaves/beginners-python/blob/master/session_six/session_six_presentation.pptx?raw=true)
-* Session Seven [Presentation](https://github.com/THargreaves/beginners-python/blob/master/session_seven/session_seven_presentation.pptx?raw=true)
-* Session Eight [Presentation](https://github.com/THargreaves/beginners-python/blob/master/session_eight/session_eight_presentation.pptx?raw=true)
+* Session One [Presentation](https://github.com/warwickdatascience/beginners-python/blob/master/session_one/session_one_presentation.pptx?raw=true)
+* Session Two [Presentation](https://github.com/warwickdatascience/beginners-python/blob/master/session_two/session_two_presentation.pptx?raw=true)
+* Session Three [Presentation](https://github.com/warwickdatascience/beginners-python/blob/master/session_three/session_three_presentation.pptx?raw=true)
+* Session Four [Presentation](https://github.com/warwickdatascience/beginners-python/blob/master/session_four/session_four_presentation.pptx?raw=true)
+* Session Five [Presentation](https://github.com/warwickdatascience/beginners-python/blob/master/session_five/session_five_presentation.pptx?raw=true)
+* Session Six [Presentation](https://github.com/warwickdatascience/beginners-python/blob/master/session_six/session_six_presentation.pptx?raw=true)
+* Session Seven [Presentation](https://github.com/warwickdatascience/beginners-python/blob/master/session_seven/session_seven_presentation.pptx?raw=true)
+* Session Eight [Presentation](https://github.com/warwickdatascience/beginners-python/blob/master/session_eight/session_eight_presentation.pptx?raw=true)
 
 ### Templates
 
-* Session One [Blank Template](https://github.com/THargreaves/beginners-python/blob/master/session_one/session_one_blank_template.ipynb) and [Filled Template](https://github.com/THargreaves/beginners-python/blob/master/session_one/session_one_filled_template.ipynb)
-* Session Two [Blank Template](https://github.com/THargreaves/beginners-python/blob/master/session_two/session_two_blank_template.ipynb) and [Filled Template](https://github.com/THargreaves/beginners-python/blob/master/session_two/session_two_filled_template.ipynb)
-* Session Three [Blank Template](https://github.com/THargreaves/beginners-python/blob/master/session_three/session_three_blank_template.ipynb) and [Filled Template](https://github.com/THargreaves/beginners-python/blob/master/session_three/session_three_filled_template.ipynb)
-* Session Four [Blank Template](https://github.com/THargreaves/beginners-python/blob/master/session_four/session_four_blank_template.ipynb) and [Filled Template](https://github.com/THargreaves/beginners-python/blob/master/session_four/session_four_filled_template.ipynb)
-* Session Five [Blank Template](https://github.com/THargreaves/beginners-python/blob/master/session_five/session_five_blank_template.ipynb) and [Filled Template](https://github.com/THargreaves/beginners-python/blob/master/session_five/session_five_filled_template.ipynb)
-* Session Six [Blank Template](https://github.com/THargreaves/beginners-python/blob/master/session_six/session_six_blank_template.ipynb) and [Filled Template](https://github.com/THargreaves/beginners-python/blob/master/session_six/session_six_filled_template.ipynb)
-* Session Seven [Blank Template](https://github.com/THargreaves/beginners-python/blob/master/session_seven/session_seven_blank_template.ipynb) and [Filled Template](https://github.com/THargreaves/beginners-python/blob/master/session_seven/session_seven_filled_template.ipynb)
-* Session Eight [Blank Template](https://github.com/THargreaves/beginners-python/blob/master/session_eight/session_eight_blank_template.ipynb) and [Filled Template](https://github.com/THargreaves/beginners-python/blob/master/session_eight/session_eight_filled_template.ipynb)
+* Session One [Blank Template](https://github.com/warwickdatascience/beginners-python/blob/master/session_one/session_one_blank_template.ipynb) and [Filled Template](https://github.com/warwickdatascience/beginners-python/blob/master/session_one/session_one_filled_template.ipynb)
+* Session Two [Blank Template](https://github.com/warwickdatascience/beginners-python/blob/master/session_two/session_two_blank_template.ipynb) and [Filled Template](https://github.com/warwickdatascience/beginners-python/blob/master/session_two/session_two_filled_template.ipynb)
+* Session Three [Blank Template](https://github.com/warwickdatascience/beginners-python/blob/master/session_three/session_three_blank_template.ipynb) and [Filled Template](https://github.com/warwickdatascience/beginners-python/blob/master/session_three/session_three_filled_template.ipynb)
+* Session Four [Blank Template](https://github.com/warwickdatascience/beginners-python/blob/master/session_four/session_four_blank_template.ipynb) and [Filled Template](https://github.com/warwickdatascience/beginners-python/blob/master/session_four/session_four_filled_template.ipynb)
+* Session Five [Blank Template](https://github.com/warwickdatascience/beginners-python/blob/master/session_five/session_five_blank_template.ipynb) and [Filled Template](https://github.com/warwickdatascience/beginners-python/blob/master/session_five/session_five_filled_template.ipynb)
+* Session Six [Blank Template](https://github.com/warwickdatascience/beginners-python/blob/master/session_six/session_six_blank_template.ipynb) and [Filled Template](https://github.com/warwickdatascience/beginners-python/blob/master/session_six/session_six_filled_template.ipynb)
+* Session Seven [Blank Template](https://github.com/warwickdatascience/beginners-python/blob/master/session_seven/session_seven_blank_template.ipynb) and [Filled Template](https://github.com/warwickdatascience/beginners-python/blob/master/session_seven/session_seven_filled_template.ipynb)
+* Session Eight [Blank Template](https://github.com/warwickdatascience/beginners-python/blob/master/session_eight/session_eight_blank_template.ipynb) and [Filled Template](https://github.com/warwickdatascience/beginners-python/blob/master/session_eight/session_eight_filled_template.ipynb)
 
 ### Homework
 
-* Session One [Exercises](https://github.com/THargreaves/beginners-python/blob/master/session_one/session_one_exercises.ipynb) and [Solutions](https://github.com/THargreaves/beginners-python/blob/master/session_one/session_one_solutions.ipynb)
-* Session Two [Exercises](https://github.com/THargreaves/beginners-python/blob/master/session_two/session_two_exercises.ipynb) and [Solutions](https://github.com/THargreaves/beginners-python/blob/master/session_two/session_two_solutions.ipynb)
-* Session Three [Exercises](https://github.com/THargreaves/beginners-python/blob/master/session_three/session_three_exercises.ipynb) and [Solutions](https://github.com/THargreaves/beginners-python/blob/master/session_three/session_three_solutions.ipynb)
-* Session Four [Exercises](https://github.com/THargreaves/beginners-python/blob/master/session_four/session_four_exercises.ipynb) and [Solutions](https://github.com/THargreaves/beginners-python/blob/master/session_four/session_four_solutions.ipynb)
-* Session Five [Exercises](https://github.com/THargreaves/beginners-python/blob/master/session_five/session_five_exercises.ipynb) and [Solutions](https://github.com/THargreaves/beginners-python/blob/master/session_five/session_five_solutions.ipynb)
-* Session Six [Exercises](https://github.com/THargreaves/beginners-python/blob/master/session_six/session_six_exercises.ipynb) and [Solutions](https://github.com/THargreaves/beginners-python/blob/master/session_six/session_six_solutions.ipynb)
-* Session Seven [Exercises](https://github.com/THargreaves/beginners-python/blob/master/session_seven/session_seven_exercises.ipynb) and [Solutions](https://github.com/THargreaves/beginners-python/blob/master/session_seven/session_seven_solutions.ipynb)
-* Session Eight [Exercises](https://github.com/THargreaves/beginners-python/blob/master/session_eight/session_eight_exercises.ipynb) and [Solutions](https://github.com/THargreaves/beginners-python/blob/master/session_eight/session_eight_solutions.ipynb)
+* Session One [Exercises](https://github.com/warwickdatascience/beginners-python/blob/master/session_one/session_one_exercises.ipynb) and [Solutions](https://github.com/warwickdatascience/beginners-python/blob/master/session_one/session_one_solutions.ipynb)
+* Session Two [Exercises](https://github.com/warwickdatascience/beginners-python/blob/master/session_two/session_two_exercises.ipynb) and [Solutions](https://github.com/warwickdatascience/beginners-python/blob/master/session_two/session_two_solutions.ipynb)
+* Session Three [Exercises](https://github.com/warwickdatascience/beginners-python/blob/master/session_three/session_three_exercises.ipynb) and [Solutions](https://github.com/warwickdatascience/beginners-python/blob/master/session_three/session_three_solutions.ipynb)
+* Session Four [Exercises](https://github.com/warwickdatascience/beginners-python/blob/master/session_four/session_four_exercises.ipynb) and [Solutions](https://github.com/warwickdatascience/beginners-python/blob/master/session_four/session_four_solutions.ipynb)
+* Session Five [Exercises](https://github.com/warwickdatascience/beginners-python/blob/master/session_five/session_five_exercises.ipynb) and [Solutions](https://github.com/warwickdatascience/beginners-python/blob/master/session_five/session_five_solutions.ipynb)
+* Session Six [Exercises](https://github.com/warwickdatascience/beginners-python/blob/master/session_six/session_six_exercises.ipynb) and [Solutions](https://github.com/warwickdatascience/beginners-python/blob/master/session_six/session_six_solutions.ipynb)
+* Session Seven [Exercises](https://github.com/warwickdatascience/beginners-python/blob/master/session_seven/session_seven_exercises.ipynb) and [Solutions](https://github.com/warwickdatascience/beginners-python/blob/master/session_seven/session_seven_solutions.ipynb)
+* Session Eight [Exercises](https://github.com/warwickdatascience/beginners-python/blob/master/session_eight/session_eight_exercises.ipynb) and [Solutions](https://github.com/warwickdatascience/beginners-python/blob/master/session_eight/session_eight_solutions.ipynb)
 
 ## Session Summaries
 
@@ -136,8 +136,8 @@ We are still working on transferring the course to this repo, improving and stan
 
 Checkout my other courses (written by me, in parallel with the AZ Code Club):
 
-* [Practical Python](https://github.com/THargreaves/practical-python) — learn more Python by applying your skills to fun, real-life problems. Prerequisite: Beginner's Python or equivalent
-* [Into the Tidyverse](https://github.com/THargreaves/into-the-tidyverse) — learn your way around the tidyverse, a collection of R packages desgined to make data importing, manipulation, and visualisation as simple as possible. No prerequisites.
+* [Practical Python](https://github.com/warwickdatascience/practical-python) — learn more Python by applying your skills to fun, real-life problems. Prerequisite: Beginner's Python or equivalent
+* [Into the Tidyverse](https://github.com/warwickdatascience/into-the-tidyverse) — learn your way around the tidyverse, a collection of R packages desgined to make data importing, manipulation, and visualisation as simple as possible. No prerequisites.
 * SQL for Scientists (coming soon)
 
 ## Getting Help

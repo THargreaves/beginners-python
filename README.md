@@ -132,14 +132,6 @@ We are still working on transferring the course to this repo, improving and stan
 * Learn how to raise errors
 * Use common built-in packages in your code
 
-### What now?
-
-Checkout my other courses (written by me, in parallel with the AZ Code Club):
-
-* [Practical Python](https://github.com/warwickdatascience/practical-python) — learn more Python by applying your skills to fun, real-life problems. Prerequisite: Beginner's Python or equivalent
-* [Into the Tidyverse](https://github.com/warwickdatascience/into-the-tidyverse) — learn your way around the tidyverse, a collection of R packages desgined to make data importing, manipulation, and visualisation as simple as possible. No prerequisites.
-* SQL for Scientists (coming soon)
-
 ## Getting Help
 
 If you are internal to AstraZeneca your best port of call for recieving help with this course is via the Code Club workplace page. We're a friendly bunch so don't feel scared to post a question even if it seems simple—likely there is someone else with the same issue.

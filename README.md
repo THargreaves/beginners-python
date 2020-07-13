@@ -35,11 +35,7 @@ If you wish to avoid using Google Colab or want to code without an internet conn
 
 Each session is contained in its own folder and includes the Powerpoint presentation given in the session, an answer template for the session exercises, a homework sheet to practice your skills, as well as corresponding solutions. All exercise and solutions notebooks will contain a link at the top of the page to open the document in Google Colab
 
-The project solution is intended to be a model solution containing full documentation and testing. It is not expected for you to add such additional components to your solution but rather you should focus on the essential parts. A full solution is only provided as indication of the direction we want to be heading in and to build up experience with looking at source code.
-
 ## Quick Access to Resources
-
-We are still working on transferring the course to this repo, improving and standardising the content in the process. Links will appear here as soon as they are ready (which hopefully won't be long). If you want to be updated when changes are made, sign up to GitHub and click the watch icon at the top of the page (whilst you're at it, stars are appreciated!).
 
 ### Presentations
 

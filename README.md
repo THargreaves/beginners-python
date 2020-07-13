@@ -1,6 +1,6 @@
 # Beginner's Python
 
-_Session material and solutions for the Beginner's Python course at the AstraZeneca Code Club_
+_Session material and solutions for the Beginner's Python course taught by WDSS_
 
 Spotted a mistake, dead link, or have suggestions for improvements? Report these [here](https://github.com/warwickdatascience/beginners-python/issues/new)
 
@@ -11,11 +11,11 @@ Navigation:
 * [Quick Access to Resources](#quick-access-to-resources)
 * [Session Summaries](#session-summaries)
 * [Getting Help](#getting-help)
-* [Acknowledgements](#acknowledgements)
+* [Contact](#contact)
 
 ## Introduction
 
-AstraZeneca Code Club's Beginner's Python course is designed for anyone completely new to Python or even programming in general. The course is self-contained and approaches the language in a slow and friendly manner, assuming no prior knowledge. All of our resources are free to be used by anyone—AZ employee or not. If you are an employee of AZ however, make sure you follow the Code Club group on Workplace for updates, support, and general Python fun.
+WDSS's Beginner's Python course is designed for anyone completely new to Python or even programming in general. The course is self-contained and approaches the language in a slow and friendly manner, assuming no prior knowledge. All of our resources are free to be used by anyone, though WDSS do offer teaching and mentorship for this course to make learning even easier. Keep an eye on our [socials](#socials) to be the first to know when we begin a new iteration.
 
 Have fun learning!
 
@@ -23,13 +23,13 @@ Have fun learning!
 
 ### Using Google Colab (Recommended)
 
-To make learing Python as simple as possible, we have centred our course around the use of Google Colab, a free, interactive cloud environment for Python programming. You can get setup with Colab by visiting [this link](https://colab.research.google.com/) or searching for Google Colab (using Google Chrome, as this has the best compatibility, unsurprisingly). Sign up using a Google account and get started by going to `File > New Python 3 Notebook`. 
+To make learing Python as simple as possible, we have centred our course around the use of Google Colab, a free, interactive cloud environment for Python programming. You can get setup with Colab by visiting [this link](https://colab.research.google.com/) or searching for Google Colab (using Google Chrome, as this has the best compatibility, unsurprisingly). Sign up using a Google account and get started by going to `File > New Python Notebook`. 
 
 All of our exercise and solution sheets also have links to open them in Colab. Once you are finished with your work, save these to your own drive using `File > Save a Copy in Drive`.
 
 ### Using Anaconda Locally (Optional)
 
-If you wish to avoid using Google Colab or want to code without an internet connection, you can setup up Anaconda on your computer to obtain a similiar, but local, experience. If you are on an AZ computer, use the software store to download this, and for personal computers visit [this link](https://www.anaconda.com/distribution/). Once you have Anaconda installed, open the Anaconda Navigator (this is just a normal program you'll find in your start menu). Then, launch 'Jupyter Notebook' and click `New > Python 3 Notebook`. This will create a blank Python 3 notebook just like with Colab. You can still use our templates by downloading the raw file from GitHub, placing it in your documents, and navigating to it in Jupyter.
+If you wish to avoid using Google Colab or want to code without an internet connection, you can setup up Anaconda on your computer to obtain a similiar, but local, experience. You can do this by visting [this link](https://www.anaconda.com/distribution/) and following installation instructions. Once you have Anaconda installed, open the Anaconda Navigator (this is just a normal program you'll find in your start menu). Then, launch 'Jupyter Notebook' and click `New > Python 3 Notebook`. This will create a blank Python 3 notebook just like with Colab. You can still use our templates by downloading the raw file from GitHub, placing it in your documents, and navigating to it in Jupyter.
 
 ## Using This Repository
 
@@ -134,16 +134,27 @@ We are still working on transferring the course to this repo, improving and stan
 
 ## Getting Help
 
-If you are internal to AstraZeneca your best port of call for recieving help with this course is via the Code Club workplace page. We're a friendly bunch so don't feel scared to post a question even if it seems simple—likely there is someone else with the same issue.
+If you are taking this course through WDSS, your first port of call for any issues is your mentor. They will be able to handle the majority of issues and can elevate any particulary troublesome or important ones.
 
-Failing that, any of the [core contributers](#acknowledgements) will be happy to help or prompt you in the right direction.
+If you are self-teaching, feel free to reach out to Tim Hargreaves (the content author) on [LinkedIn](https://www.linkedin.com/in/tim-hargreaves/).
 
-If you are external to AstraZenca, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/tim-hargreaves/).
-
-On top of any support the AZ Code Club can offer, there are many open-source resources for learning Python. Here are some of our favourites:
+On top of any support the WDSS can offer, there are many open-source resources for learning Python. Here are some of our favourites:
 
 * [Learn Python](https://www.learnpython.org/)
 * [Python Cheat Sheets](https://ehmatthes.github.io/pcc/cheatsheets/README.html)
 * [Practice Python](https://www.practicepython.org/)
 * [Real Python](https://realpython.com/start-here/)
 * [GeeksforGeeks](https://www.geeksforgeeks.org/python-programming-language/)
+
+## Contact
+
+This course was written and initially taught by [Tim Hargreaves](https://www.linkedin.com/in/tim-hargreaves/). 
+
+For general enquires, reach out to hello@warwickdatascience.com.
+
+### Socials
+
+* [Facebook](https://rebrand.ly/wdss-facebook)
+* [LinkedIn](https://rebrand.ly/wdss-linkedin)
+* [Instagram](https://rebrand.ly/wdss-instagram)
+* [YouTube](https://rebrand.ly/wdss-youtube)

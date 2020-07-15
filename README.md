@@ -11,6 +11,7 @@ Navigation:
 * [Introduction](#introduction)
 * [Using This Repository](#using-this-repository)
 * [Quick Access to Resources](#quick-access-to-resources)
+* [Additional Content](#additional-content)
 * [Session Summaries](#session-summaries)
 * [Getting Help](#getting-help)
 * [Contact](#contact)
@@ -110,6 +111,19 @@ Our material is all ready to go and we will add links for each session at the be
 * Write text to a file
 * Learn how to raise errors
 * Use common built-in packages in your code
+
+## Additional Content
+
+In Python, there is often more than one way to do things. A particular style, known as Pythonic programming, is often favoured for its elegance and efficiency. On top of the base content shown above, the partipants of our two fast track course (P1/P2) will also be given an introduction to Pythonic programming techniques relevant to each session's material as additional content. The additional topics are linked below as will a notebook, demoing their use at the end of each week. 
+
+### Session 1
+
+* `sep`, `end`, special characters for printing
+* `__repr__` vs `__str__`
+* Modular arithmetic
+* Math
+* Inplace operators
+* Multiple assignment (AKA tuple unpacking)
 
 ## Getting Help
 

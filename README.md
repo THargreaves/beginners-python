@@ -121,7 +121,7 @@ In Python, there is often more than one way to do things. A particular style, kn
 
 ### Session 1
 
-[Brief notes in notebook form](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_one/session_one_additional_notes.ipynb))
+[Brief notes in notebook form](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_one/session_one_additional_content.ipynb)
 
 * `sep`, `end`, special characters for printing
 * `__repr__` vs `__str__`

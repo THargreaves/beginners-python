@@ -130,6 +130,15 @@ In Python, there is often more than one way to do things. A particular style, kn
 * Inplace operators
 * Multiple assignment (AKA tuple unpacking)
 
+### Session 2
+
+* `None`
+* Type promotion for arithmetic
+* f-strings
+* Arithmetic on lists
+* String methods (case, `.replace()`, `.strip()`)
+* Quotes
+
 ## Getting Help
 
 If you are taking this course through WDSS, your first port of call for any issues is your mentor. They will be able to handle the majority of issues and can elevate any particulary troublesome or important ones.

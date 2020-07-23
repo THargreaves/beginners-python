@@ -132,6 +132,8 @@ In Python, there is often more than one way to do things. A particular style, kn
 
 ### Session 2
 
+[Brief notes in notebook form](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_two/session_two_additional_content.ipynb)
+
 * `None`
 * Type promotion for arithmetic
 * f-strings

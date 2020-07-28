@@ -46,16 +46,19 @@ Our material is all ready to go and we will add links for each session at the be
 
 * Session One [Presentation](https://github.com/warwickdatascience/beginners-python/blob/master/session_one/session_one_presentation.pptx?raw=true)
 * Session Two [Presentation](https://github.com/warwickdatascience/beginners-python/blob/master/session_two/session_two_presentation.pptx?raw=true)
+* Session Three [Presentation](https://github.com/warwickdatascience/beginners-python/blob/master/session_three/session_three_presentation.pptx?raw=true)
 
 ### Templates
 
 * Session One [Blank Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_one/session_one_blank_template.ipynb) and [Filled Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_one/session_one_filled_template.ipynb)
 * Session Two [Blank Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_two/session_two_blank_template.ipynb) and [Filled Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_two/session_two_filled_template.ipynb)
+* Session Three [Blank Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_three/session_three_blank_template.ipynb) and [Filled Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_three/session_three_filled_template.ipynb)
 
 ### Homework
 
 * Session One [Exercises](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_one/session_one_exercises.ipynb) and [Solutions](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_one/session_one_solutions.ipynb)
 * Session Two [Exercises](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_two/session_two_exercises.ipynb) and [Solutions](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_two/session_two_solutions.ipynb)
+* Session Three [Exercises](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_three/session_three_exercises.ipynb) and [Solutions](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_three/session_three_solutions.ipynb)
 
 ## Session Summaries
 

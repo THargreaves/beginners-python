@@ -146,9 +146,12 @@ In Python, there is often more than one way to do things. A particular style, kn
 
 ### Session 3
 
+[Brief notes in notebook form](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_three/session_three_additional_content.ipynb)
+
+* Two-sided comparisons
 * Truthiness
 * If expressions
-* Order of Operations
+* Order of operations
 * Validation methods
 * String comparisons
 

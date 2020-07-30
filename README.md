@@ -144,6 +144,13 @@ In Python, there is often more than one way to do things. A particular style, kn
 * String methods (case, `.replace()`, `.strip()`)
 * Quotes
 
+### Session 3
+
+* Truthiness
+* If expressions
+* Order of Operations
+* Validation methods
+
 ## Getting Help
 
 If you are taking this course through WDSS, your first port of call for any issues is your mentor. They will be able to handle the majority of issues and can elevate any particulary troublesome or important ones.

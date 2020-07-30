@@ -150,6 +150,7 @@ In Python, there is often more than one way to do things. A particular style, kn
 * If expressions
 * Order of Operations
 * Validation methods
+* String comparisons
 
 ## Getting Help
 

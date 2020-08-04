@@ -61,6 +61,7 @@ Our material is all ready to go and we will add links for each session at the be
 * Session One [Exercises](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_one/session_one_exercises.ipynb) and [Solutions](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_one/session_one_solutions.ipynb)
 * Session Two [Exercises](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_two/session_two_exercises.ipynb) and [Solutions](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_two/session_two_solutions.ipynb)
 * Session Three [Exercises](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_three/session_three_exercises.ipynb) and [Solutions](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_three/session_three_solutions.ipynb)
+* Session Four [Exercises](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_four/session_four_exercises.ipynb) and [Solutions](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_four/session_four_solutions.ipynb)
 
 ## Session Summaries
 

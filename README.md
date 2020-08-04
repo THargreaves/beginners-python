@@ -54,6 +54,7 @@ Our material is all ready to go and we will add links for each session at the be
 * Session One [Blank Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_one/session_one_blank_template.ipynb) and [Filled Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_one/session_one_filled_template.ipynb)
 * Session Two [Blank Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_two/session_two_blank_template.ipynb) and [Filled Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_two/session_two_filled_template.ipynb)
 * Session Three [Blank Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_three/session_three_blank_template.ipynb) and [Filled Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_three/session_three_filled_template.ipynb)
+* Session Four [Blank Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_four/session_four_blank_template.ipynb) and [Filled Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_four/session_four_filled_template.ipynb)
 
 ### Homework
 

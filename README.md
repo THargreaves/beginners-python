@@ -160,6 +160,9 @@ In Python, there is often more than one way to do things. A particular style, kn
 
 ### Session 4
 
+[Brief notes in notebook form](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_four/session_four_additional_content.ipynb)
+
+* Removing all matches
 * String indexing and slices
 * Immutability
 * Copying lists

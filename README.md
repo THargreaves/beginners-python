@@ -175,9 +175,11 @@ In Python, there is often more than one way to do things. A particular style, kn
 
 ### Session 5
 
+[Brief notes in notebook form](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_five/session_five_additional_content.ipynb)
+
 * Looping through a string
 * Else
-* Ignoring assignement
+* Ignoring assignment
 * List comprehension
 * Matrices
 * Zipping

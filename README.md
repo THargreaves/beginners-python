@@ -194,6 +194,7 @@ In Python, there is often more than one way to do things. A particular style, kn
 * Args and kwargs
 * Lambda Functions
 * Functional programming
+* Memoisation
 
 ## Getting Help
 

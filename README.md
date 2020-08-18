@@ -49,6 +49,7 @@ Our material is all ready to go and we will add links for each session at the be
 * Session Three [Presentation](https://github.com/warwickdatascience/beginners-python/blob/master/session_three/session_three_presentation.pptx?raw=true)
 * Session Four [Presentation](https://github.com/warwickdatascience/beginners-python/blob/master/session_four/session_four_presentation.pptx?raw=true)
 * Session Five [Presentation](https://github.com/warwickdatascience/beginners-python/blob/master/session_five/session_five_presentation.pptx?raw=true)
+* Session Six [Presentation](https://github.com/warwickdatascience/beginners-python/blob/master/session_six/session_six_presentation.pptx?raw=true)
 
 ### Templates
 
@@ -57,6 +58,7 @@ Our material is all ready to go and we will add links for each session at the be
 * Session Three [Blank Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_three/session_three_blank_template.ipynb) and [Filled Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_three/session_three_filled_template.ipynb)
 * Session Four [Blank Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_four/session_four_blank_template.ipynb) and [Filled Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_four/session_four_filled_template.ipynb)
 * Session Five [Blank Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_five/session_five_blank_template.ipynb) and [Filled Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_five/session_five_filled_template.ipynb)
+* Session Six [Blank Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_six/session_six_blank_template.ipynb) and [Filled Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_six/session_six_filled_template.ipynb)
 
 ### Homework
 
@@ -65,6 +67,7 @@ Our material is all ready to go and we will add links for each session at the be
 * Session Three [Exercises](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_three/session_three_exercises.ipynb) and [Solutions](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_three/session_three_solutions.ipynb)
 * Session Four [Exercises](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_four/session_four_exercises.ipynb) and [Solutions](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_four/session_four_solutions.ipynb)
 * Session Five [Exercises](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_five/session_five_exercises.ipynb) and [Solutions](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_five/session_five_solutions.ipynb)
+* Session Six [Exercises](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_six/session_six_exercises.ipynb) and [Solutions](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_six/session_six_solutions.ipynb)
 
 ## Session Summaries
 
@@ -183,6 +186,14 @@ In Python, there is often more than one way to do things. A particular style, kn
 * List comprehension
 * Matrices
 * Zipping
+
+### Session 6
+
+* Using `None`
+* Passing by reference/value
+* Args and kwargs
+* Lambda Functions
+* Functional programming
 
 ## Getting Help
 

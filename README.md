@@ -189,11 +189,14 @@ In Python, there is often more than one way to do things. A particular style, kn
 
 ### Session 6
 
+[Brief notes in notebook form](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_six/session_six_additional_content.ipynb)
+
 * Using `None`
 * Passing by reference/value
 * Args and kwargs
 * Lambda Functions
 * Functional programming
+* Accessing global variables
 * Memoisation
 
 ## Getting Help

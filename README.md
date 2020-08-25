@@ -50,7 +50,7 @@ Our material is all ready to go and we will add links for each session at the be
 * Session Four [Presentation](https://github.com/warwickdatascience/beginners-python/blob/master/session_four/session_four_presentation.pptx?raw=true)
 * Session Five [Presentation](https://github.com/warwickdatascience/beginners-python/blob/master/session_five/session_five_presentation.pptx?raw=true)
 * Session Six [Presentation](https://github.com/warwickdatascience/beginners-python/blob/master/session_six/session_six_presentation.pptx?raw=true)
-* Session Six [Presentation](https://github.com/warwickdatascience/beginners-python/blob/master/session_seven/session_seven_presentation.pptx?raw=true) and [Practical Example](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_seven/session_seven_practical_example.ipynb)
+* Session Seven [Presentation](https://github.com/warwickdatascience/beginners-python/blob/master/session_seven/session_seven_presentation.pptx?raw=true) and [Practical Example](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_seven/session_seven_practical_example.ipynb)
 
 ### Templates
 

@@ -207,6 +207,8 @@ In Python, there is often more than one way to do things. A particular style, kn
 
 ### Session 7
 
+[Brief notes in notebook form](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_seven/session_seven_additional_content.ipynb)
+
 * Sets
 * Dictionary comprehension
 * Positional and named arguments
@@ -216,7 +218,7 @@ In Python, there is often more than one way to do things. A particular style, kn
 
 ### Session 8
 
-_There are no additional notes for session eight. See the closing slide for further reading._
+_There are no additional content for session eight.
 
 ## Getting Help
 

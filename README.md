@@ -51,6 +51,7 @@ Our material is all ready to go and we will add links for each session at the be
 * Session Five [Presentation](https://github.com/warwickdatascience/beginners-python/blob/master/session_five/session_five_presentation.pptx?raw=true)
 * Session Six [Presentation](https://github.com/warwickdatascience/beginners-python/blob/master/session_six/session_six_presentation.pptx?raw=true)
 * Session Seven [Presentation](https://github.com/warwickdatascience/beginners-python/blob/master/session_seven/session_seven_presentation.pptx?raw=true) and [Practical Example](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_seven/session_seven_practical_example.ipynb)
+* Session Eight [Presentation](https://github.com/warwickdatascience/beginners-python/blob/master/session_eight/session_eight_presentation.pptx?raw=true)
 
 ### Templates
 
@@ -61,6 +62,7 @@ Our material is all ready to go and we will add links for each session at the be
 * Session Five [Blank Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_five/session_five_blank_template.ipynb) and [Filled Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_five/session_five_filled_template.ipynb)
 * Session Six [Blank Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_six/session_six_blank_template.ipynb) and [Filled Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_six/session_six_filled_template.ipynb)
 * Session Seven [Blank Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_seven/session_seven_blank_template.ipynb) and [Filled Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_seven/session_seven_filled_template.ipynb)
+* Session Eight [Blank Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_eight/session_eight_blank_template.ipynb) and [Filled Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_eight/session_eight_filled_template.ipynb)
 
 ### Homework
 
@@ -71,6 +73,7 @@ Our material is all ready to go and we will add links for each session at the be
 * Session Five [Exercises](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_five/session_five_exercises.ipynb) and [Solutions](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_five/session_five_solutions.ipynb)
 * Session Six [Exercises](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_six/session_six_exercises.ipynb) and [Solutions](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_six/session_six_solutions.ipynb)
 * Session Seven [Exercises](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_seven/session_seven_exercises.ipynb) and [Solutions](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_seven/session_seven_solutions.ipynb)
+* Session Eight [Exercises](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_eight/session_eight_exercises.ipynb) and [Solutions](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_eight/session_eight_solutions.ipynb)
 
 ## Session Summaries
 
@@ -210,6 +213,10 @@ In Python, there is often more than one way to do things. A particular style, kn
 * Revisiting kwargs
 * Returning to memoisation
 * Merging dictionaries
+
+### Session 8
+
+_There are no additional notes for session eight. See the closing slide for further reading._
 
 ## Getting Help
 

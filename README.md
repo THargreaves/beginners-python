@@ -44,36 +44,14 @@ Our material is all ready to go and we will add links for each session at the be
 
 ### Presentations
 
-* Session One [Presentation](https://github.com/warwickdatascience/beginners-python/blob/master/session_one/session_one_presentation.pptx?raw=true)
-* Session Two [Presentation](https://github.com/warwickdatascience/beginners-python/blob/master/session_two/session_two_presentation.pptx?raw=true)
-* Session Three [Presentation](https://github.com/warwickdatascience/beginners-python/blob/master/session_three/session_three_presentation.pptx?raw=true)
-* Session Four [Presentation](https://github.com/warwickdatascience/beginners-python/blob/master/session_four/session_four_presentation.pptx?raw=true)
-* Session Five [Presentation](https://github.com/warwickdatascience/beginners-python/blob/master/session_five/session_five_presentation.pptx?raw=true)
-* Session Six [Presentation](https://github.com/warwickdatascience/beginners-python/blob/master/session_six/session_six_presentation.pptx?raw=true)
-* Session Seven [Presentation](https://github.com/warwickdatascience/beginners-python/blob/master/session_seven/session_seven_presentation.pptx?raw=true) and [Practical Example](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_seven/session_seven_practical_example.ipynb)
-* Session Eight [Presentation](https://github.com/warwickdatascience/beginners-python/blob/master/session_eight/session_eight_presentation.pptx?raw=true)
+
 
 ### Templates
 
-* Session One [Blank Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_one/session_one_blank_template.ipynb) and [Filled Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_one/session_one_filled_template.ipynb)
-* Session Two [Blank Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_two/session_two_blank_template.ipynb) and [Filled Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_two/session_two_filled_template.ipynb)
-* Session Three [Blank Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_three/session_three_blank_template.ipynb) and [Filled Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_three/session_three_filled_template.ipynb)
-* Session Four [Blank Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_four/session_four_blank_template.ipynb) and [Filled Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_four/session_four_filled_template.ipynb)
-* Session Five [Blank Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_five/session_five_blank_template.ipynb) and [Filled Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_five/session_five_filled_template.ipynb)
-* Session Six [Blank Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_six/session_six_blank_template.ipynb) and [Filled Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_six/session_six_filled_template.ipynb)
-* Session Seven [Blank Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_seven/session_seven_blank_template.ipynb) and [Filled Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_seven/session_seven_filled_template.ipynb)
-* Session Eight [Blank Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_eight/session_eight_blank_template.ipynb) and [Filled Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_eight/session_eight_filled_template.ipynb)
+
 
 ### Homework
 
-* Session One [Exercises](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_one/session_one_exercises.ipynb) and [Solutions](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_one/session_one_solutions.ipynb)
-* Session Two [Exercises](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_two/session_two_exercises.ipynb) and [Solutions](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_two/session_two_solutions.ipynb)
-* Session Three [Exercises](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_three/session_three_exercises.ipynb) and [Solutions](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_three/session_three_solutions.ipynb)
-* Session Four [Exercises](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_four/session_four_exercises.ipynb) and [Solutions](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_four/session_four_solutions.ipynb)
-* Session Five [Exercises](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_five/session_five_exercises.ipynb) and [Solutions](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_five/session_five_solutions.ipynb)
-* Session Six [Exercises](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_six/session_six_exercises.ipynb) and [Solutions](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_six/session_six_solutions.ipynb)
-* Session Seven [Exercises](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_seven/session_seven_exercises.ipynb) and [Solutions](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_seven/session_seven_solutions.ipynb)
-* Session Eight [Exercises](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_eight/session_eight_exercises.ipynb) and [Solutions](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_eight/session_eight_solutions.ipynb)
 
 ## Session Summaries
 
@@ -135,96 +113,14 @@ Our material is all ready to go and we will add links for each session at the be
 
 ## Additional Content
 
-In Python, there is often more than one way to do things. A particular style, known as Pythonic programming, is often favoured for its elegance and efficiency. On top of the base content shown above, the partipants of our two fast track course (P1/P2) will also be given an introduction to Pythonic programming techniques relevant to each session's material as additional content. The additional topics are linked below as will a notebook, demoing their use at the end of each week. 
+In Python, there is often more than one way to do things. A particular style, known as Pythonic programming, is often favoured for its elegance and efficiency. On top of the base content, you are encouraged to have a look at the topics below which introduce some extra knowlege and techniques you can apply in your code.
 
-### Session 1
-
-[Brief notes in notebook form](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_one/session_one_additional_content.ipynb)
-
-* `sep`, `end`, special characters for printing
-* `__repr__` vs `__str__`
-* Modular arithmetic
-* Math
-* Inplace operators
-* Multiple assignment (AKA tuple unpacking)
-
-### Session 2
-
-[Brief notes in notebook form](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_two/session_two_additional_content.ipynb)
-
-* `None`
-* Type promotion for arithmetic
-* f-strings
-* Arithmetic on lists
-* String methods (case, `.replace()`, `.strip()`)
-* Quotes
-
-### Session 3
-
-[Brief notes in notebook form](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_three/session_three_additional_content.ipynb)
-
-* Two-sided comparisons
-* Truthiness
-* If expressions
-* Order of operations
-* Validation methods
-* String comparisons
-
-### Session 4
-
-[Brief notes in notebook form](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_four/session_four_additional_content.ipynb)
-
-* Removing all matches
-* String indexing and slices
-* Throwaways
-* Copying lists
-* Splatting
-* Extend
-* Stepped slices
-
-### Session 5
-
-[Brief notes in notebook form](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_five/session_five_additional_content.ipynb)
-
-* Looping through a string
-* Else
-* Ignoring assignment
-* List comprehension
-* Matrices
-* Zipping
-
-### Session 6
-
-[Brief notes in notebook form](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_six/session_six_additional_content.ipynb)
-
-* Using `None`
-* Passing by reference/value
-* Args and kwargs
-* Lambda Functions
-* Functional programming
-* Accessing global variables
-* Memoisation
-
-### Session 7
-
-[Brief notes in notebook form](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_seven/session_seven_additional_content.ipynb)
-
-* Sets
-* Dictionary comprehension
-* Positional and named arguments
-* Revisiting kwargs
-* Returning to memoisation
-* Merging dictionaries
-
-### Session 8
-
-_There are no additional content for session eight.
 
 ## Getting Help
 
 If you are taking this course through WDSS, your first port of call for any issues is your mentor. They will be able to handle the majority of issues and can elevate any particulary troublesome or important ones.
 
-If you are self-teaching, feel free to reach out to Tim Hargreaves (the content author) on [LinkedIn](https://www.linkedin.com/in/tim-hargreaves/).
+If you are self-teaching, feel free to reach out to Tim Hargreaves (the content author) on [LinkedIn](https://www.linkedin.com/in/tim-hargreaves/) or Kasia Kobalczyk (the course manager) on [LinkedIn](https://www.linkedin.com/in/katarzyna-kobalczyk/)
 
 On top of any support the WDSS can offer, there are many open-source resources for learning Python. Here are some of our favourites:
 
